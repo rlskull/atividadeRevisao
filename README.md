@@ -1,0 +1,1 @@
+Este repositório contém a correção do exercício anterior, que trabalhou com a utilização de <div> e noções básicas de design. O foco foi na organização dos elementos da página e na aplicação de estilos para melhorar a apresentação visual.
